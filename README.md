@@ -1,30 +1,30 @@
 # BOB
 
-Este fue un pequeño proyecto mio con la intencion de creear una IA a mano (no acabo muy bien como se puede ver).
+This was a small project of mine with the intention of creating an AI from scratch (it didn't end up very well as you can see).
 
-Nunca lo llegue a acabar, aun asi lo subo aqui para aquellos que la quieran probar, peudes descargar el codigo (perdon por la aberracion) o probar la demo en el apartado [Releases](https://github.com/FerLS/BOB/releases)
+I never finished it; nonetheless, I'm uploading it here for those who want to give it a try. You can download the code (sorry for the mess) or try the demo in the [Releases](https://github.com/FerLS/BOB/releases) section.
 
 >[!Warning]
->No me hago responsable de todo mal y perjucio que se le haga a BOB.
+>I am not responsible for any harm or damage caused to BOB.
 >
->*[Bases legales 2023 ©](https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran)*
+>*[Legal disclaimer 2023 ©](https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran)*
 
 <a href="url"><img src="https://github.com/FerLS/BOB/blob/main/preview.gif"  style="border-radius:50%"></a>
 
-### Acciones de BOB
+### BOB's Actions
 
 >[!Note]
-> Levantarse (a veces)
+> Getting up (sometimes)
 > 
-> Buscar Manzanas
+> Searching for Apples
 > 
-> Comer Manzanas
+> Eating Apples
 > 
-> Perseguir Manzanas
+> Chasing Apples
 > 
 >
-> Ò̴̺̮̻͔͍͔͘B̵͙̅̀̐͊͝Ṣ̴͔̟̘͍̟͘Ę̶͋͂R̶͎̟͊̐́̽͂V̶̪̲̌̍A̶̪̬̹̒R̵̮̩͉͆ ̵̢̝͈͋͊̋E̷̳̝̣̗̓L̴͖̣̎ ̷͕̔V̸̡̡͆̋̾͐̈́̾Á̴̡̧͒͂͠C̸̞̫̫͚͓̣̿I̷̢̩̘̾͒̈́̿̈͠Ớ̸̰̠̞̈́͗̋ ̷̠̪̇͘͘͝D̵̹̰͓͒̽̈́̊E̷̢̠͔͆̕ ̷͈̺̬̏̒̓̓̉̚T̶̢̈́U̸̞͓̾̇͠ ̵͖̌͛̽͗̇͝A̸̛̜͉̓̄̂̉̐L̴̛͇̟̂̆M̷̨̛̤͙͖̒͊̃̿̑A̷̢̩̞̹͂̏̓
+> ̵̨̘̭̤͒͗͑͝Ö̷̞́͂Ḇ̶̏̿S̵͉͗Ē̵̙̱̤̍̀͂Ř̸̥̒̈V̵͎̘̭̹̺̫̈E̵̢̘͗̐̑ ̶̛̛̻͎̞̱́̂̽T̷̥͍͈̟͠H̵̢̛͈͕Ë̶̛̙̺̞̫͖͕͊ ̸͖̤̘̆̔V̷̗̝̞̣͔̚͜O̶͉̠̲͎̭̔̓̂̕͜Ĭ̴̧̝̖̹̹̊D̵̦̫͚̅̉͜ ̷͍̱̏̎̅͛̌̚Ḭ̶͖̄͑̔̑͝N̶͇͚̩̫͋̃̚ ̵̢̝̻͎̉̓Y̸̼̬͚̖̭̥̑̇͋Ȍ̷̧̮̮͠U̷̮̩̐̉̉̽͝R̸̡͕͗̏̔̀̏ ̸̘͛̈́̾S̵̠͕̠̜͛͋̆̅̇͝O̴͖̒̂͊̕Ù̵̹̹͍̣L̵̡͇̜͕͖̈́̄̃ͅ
 >
-> Levantarse (ahora si pudo)
+> Getting up (now yes)
 
-El proyecto esta abaondonado de momento, si algun dia me animo a seguirlo lo actualizare aqui
+The project is currently abandoned; if someday I decide to continue it, I will update it here.
