@@ -8,7 +8,9 @@ Nunca lo llegue a acabar, aun asi lo subo aqui para aquellos que la quieran prob
 >No me hago responsable de todo mal y perjucio que se le haga a BOB.
 >
 >*[Bases legales 2023 ©](https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran)*
->
+
+<img src="https://github.com/FerLS/BOB/preview.gif" alt="Descripción de la imagen" style="border-radius: 12px;" />
+
 ### Acciones de BOB
 
 >[!Note]
