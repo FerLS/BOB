@@ -1,7 +1,8 @@
 # BOB
 
 Este fue un pequeño proyecto mio con la intencion de creear una IA a mano (no acabo muy bien como se puede ver).
-Aun asi lo subo aqui para aquellos que la quieran probar, peudes descargar el codigo (perdon por la aberracion) o probar la demo en el apartado [Releases](https://github.com/FerLS/BOB/releases)
+
+Nunca lo llegue a acabar, aun asi lo subo aqui para aquellos que la quieran probar, peudes descargar el codigo (perdon por la aberracion) o probar la demo en el apartado [Releases](https://github.com/FerLS/BOB/releases)
 
 >[!Warning]
 >No me hago responsable de todo mal y perjucio que se le haga a BOB.
