@@ -9,7 +9,7 @@ Nunca lo llegue a acabar, aun asi lo subo aqui para aquellos que la quieran prob
 >
 >*[Bases legales 2023 ©](https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran)*
 
-<img src="https://github.com/FerLS/BOB/preview.gif" alt="Descripción de la imagen" style="border-radius: 12px;" />
+<a href="url"><img src="https://github.com/FerLS/BOB/blob/main/preview.gif"  style="border-radius:50%"></a>
 
 ### Acciones de BOB
 
