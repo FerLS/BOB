@@ -7,7 +7,7 @@ I never finished it; nonetheless, I'm uploading it here for those who want to gi
 >[!Warning]
 >I am not responsible for any harm or damage caused to BOB.
 >
->*[Legal disclaimer 2023 ©](https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran)*
+>*[Legal disclaimer 2023 ©](https://t.ly/6w_bR)*
 
 <a href="url"><img src="https://github.com/FerLS/BOB/blob/main/preview.gif"  style="border-radius:50%"></a>
 
